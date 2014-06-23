@@ -1,4 +1,4 @@
-schematics
+Schematics
 ==========
 
-Python Data Structures for Humans™
+This project has moved to [https://github.com/schematics](github.com/schematics).
