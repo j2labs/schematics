@@ -1,4 +1,4 @@
 Schematics
 ==========
 
-This project has moved to [https://github.com/schematics](github.com/schematics).
+This project has moved to [github.com/schematics](https://github.com/schematics/schematics).
